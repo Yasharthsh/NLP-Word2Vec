@@ -1,7 +1,4 @@
-"""
-author-gh: @adithya8
-editor-gh: ykl7
-"""
+
 
 import math 
 
